@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common Swift programming error: the "Index out of range" error when accessing arrays. The `bug.swift` file shows the error-causing code, while `bugSolution.swift` provides a solution that uses safe array access.
